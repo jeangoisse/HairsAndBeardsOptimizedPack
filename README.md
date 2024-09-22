@@ -1,6 +1,7 @@
 # Hairs'N'Bears Optimized Pack
 
-Aggregates Hairs from various mods, with textures size changed when needed to keep balance between optimization and good look.
+Aggregates Hairs from various mods, with textures size changed when needed to keep a balance between optimization and still have good look.
+Main reason to do this pack is to decluture modlist and using highly optimized textures.
 
 Currently includes 
 
@@ -9,8 +10,10 @@ Currently includes
 - Botch's Hardtimes (untouched because his 512px texture are highly optimized)
 - ЯEБAЛ's Absolute Legends Hairs (downscaled to 256px)
 
-More to come
+More to come, soon ™
 
+- Screenshots
+- Texture size comparaison
 - Von's Hair Women (upscale to 256px)
 - Storyteller's Hairs (upscale to 256px)
 - VE Highmate Beautiful Haired Retexture
