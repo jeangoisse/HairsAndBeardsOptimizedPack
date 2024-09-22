@@ -1,4 +1,4 @@
-# Hairs'N'Bears Optimized Pack
+# Hairs'N'Beards Optimized Pack
 
 Aggregates Hairs from various mods, with textures size changed when needed to keep a balance between optimization and still have good look.
 Main reason to do this pack is to decluture modlist and using highly optimized textures.
