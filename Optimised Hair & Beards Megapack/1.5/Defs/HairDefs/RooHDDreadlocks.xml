@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<!-- Crunch Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Crunch</defName>
+		<label>RBDHD Royal Braid</label>
+		<styleGender>Female</styleGender>
+		<category>Royal</category>
+		<texPath>Hairs/RBDHD_Crunch</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Royal</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+   
+	<!-- Amp Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Amp</defName>
+		<label>RBDHD Quick Bun</label>
+		<styleGender>Any</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Amp</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Tribal</li>
+			<li>Punk</li>
+			<li>Wild</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+       
+	<!-- Astra Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Astra</defName>
+		<label>RBDHD Tied Dreads</label>
+		<styleGender>Any</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Astra</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+       
+	<!-- Camden Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Camden</defName>
+		<label>RBDHD Pigtail Dreads</label>
+		<styleGender>FemaleUsually</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Camden</texPath>
+		<styleTags>
+			<li>Punk</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+       
+	<!-- Paladin Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Paladin</defName>
+		<label>RBDHD Paladin</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Tribal</category>
+		<texPath>Hairs/RBDHD_Paladin</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Royal</li>
+			<li>HairLong</li>
+			<li>Wild</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+       
+	<!-- Poppy Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Poppy</defName>
+		<label>RBDHD Clips Neat</label>
+		<styleGender>FemaleUsually</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Poppy</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Royal</li>
+			<li>Punk</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+       
+	<!-- Bookworm Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Bookworm</defName>
+		<label>RBDHD Bob Dreads</label>
+		<styleGender>FemaleUsually</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Bookworm</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Wild</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+  
+	<!-- Relaxed Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Relaxed</defName>
+		<label>RBDHD Relaxed</label>
+		<styleGender>Female</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Relaxed</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>Royal</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+  
+	<!-- Buzzdreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Buzzdreads</defName>
+		<label>RBDHD Buzz Dreads</label>
+		<styleGender>Any</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Buzzdreads</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Urban</li>
+			<li>HairShort</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Fairy Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Fairy</defName>
+		<label>RBDHD Fairy</label>
+		<styleGender>Female</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Fairy</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Halfdyed Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Halfdyed</defName>
+		<label>RBDHD Half-Dye Long</label>
+		<styleGender>FemaleUsually</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Halfdyed</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Halfshavedreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Halfshavedreads</defName>
+		<label>RBDHD Half-Shaved</label>
+		<styleGender>Any</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Halfshavedreads</texPath>
+		<styleTags>
+			<li>Punk</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Hangout Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Hangout</defName>
+		<label>RBDHD Dread Bangs</label>
+		<styleGender>Female</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Hangout</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Rural</li>
+			<li>Royal</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Headbanddreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Headbanddreads</defName>
+		<label>RBDHD Headband Long</label>
+		<styleGender>Female</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Headbanddreads</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Ponytaildreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Ponytaildreads</defName>
+		<label>RBDHD Ponytail</label>
+		<styleGender>Any</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Ponytaildreads</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>Soldier</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Twintails Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Twintails</defName>
+		<label>RBDHD Twintails</label>
+		<styleGender>Female</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Twintails</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Sweptbackdreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Sweptbackdreads</defName>
+		<label>RBDHD High Ponytail</label>
+		<styleGender>Female</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Sweptbackdreads</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Sweptover Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Sweptover</defName>
+		<label>RBDHD Undercut</label>
+		<styleGender>Any</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Sweptover</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Shortdreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Shortdreads</defName>
+		<label>RBDHD Short</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Shortdreads</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Royal</li>
+			<li>HairShort</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+  
+
+	<!-- Alpha Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Alpha</defName>
+		<label>RBDHD Soft Top</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Alpha</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Clips Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Clipsmale</defName>
+		<label>RBDHD Clips Messy</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Clipsmale</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Dreadsmohawk Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Dreadsmohawk</defName>
+		<label>RBDHD Dreadhawk</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Dreadsmohawk</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Halfdyedmale Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Halfdyedmale</defName>
+		<label>RBDHD Half Dyed Short</label>
+		<styleGender>Any</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Halfdyedmale</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Punk</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+		
+	<!-- Hangoutmale Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Hangoutmale</defName>
+		<label>RBDHD Cyberdog</label>
+		<styleGender>Any</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Hangoutmale</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Punk</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Headbanddreadsmale Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Headbanddreadsmale</defName>
+		<label>RBDHD Headband Short</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Headbanddreadsmale</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Longdreads Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Longdreads</defName>
+		<label>RBDHD Long</label>
+		<styleGender>Any</styleGender>
+		<category>Tribal</category>
+		<texPath>Hairs/RBDHD_Longdreads</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>HairLong</li>
+			<li>Wild</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Loosemale Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Loosemale</defName>
+		<label>RBDHD Medium</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Tribal</category>
+		<texPath>Hairs/RBDHD_Loosemale</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Wild</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Manbun Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Manbun</defName>
+		<label>RBDHD Heavy Bun</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Manbun</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Mane Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Mane</defName>
+		<label>RBDHD Clips Long</label>
+		<styleGender>Any</styleGender>
+		<category>Royal</category>
+		<texPath>Hairs/RBDHD_Mane</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Royal</li>
+			<li>HaiLong</li>
+			<li>Tribal</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Mediator Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Mediator</defName>
+		<label>RBDHD Mediator</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Urban</category>
+		<texPath>Hairs/RBDHD_Mediator</texPath>
+		<styleTags>
+			<li>Tribal</li>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Neat Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Neat</defName>
+		<label>RBDHD Neat</label>
+		<styleGender>MaleUsually</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Neat</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+			<li>Royal</li>
+			<li>Soldier</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Widepart Hairstyle -->
+  
+	<HairDef>
+		<defName>RBDHD_Widepart</defName>
+		<label>RBDHD Parted</label>
+		<styleGender>Male</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Widepart</texPath>
+		<styleTags>
+			<li>Punk</li>
+			<li>HairShort</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!--=== New Styles ===-->
+
+	<!-- Puffs Hairstyle-->
+
+	<HairDef>
+		<defName>RBDHD_Puffs</defName>
+		<label>RBDHD Puffs</label>
+		<styleGender>Female</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Puffs</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Wild</li>
+			<li>HairLong</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Turban Hairstyle-->
+
+	<HairDef>
+		<defName>RBDHD_Turban</defName>
+		<label>RBDHD Turban</label>
+		<styleGender>Female</styleGender>
+		<category>Rural</category>
+		<texPath>Hairs/RBDHD_Turban</texPath>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef>
+		<styleTags>
+			<li>Rural</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+	<!-- Twinbuns Hairstyle-->
+
+	<HairDef>
+		<defName>RBDHD_Twinbuns</defName>
+		<label>RBDHD Twin Buns</label>
+		<styleGender>Female</styleGender>
+		<category>Punk</category>
+		<texPath>Hairs/RBDHD_Twinbuns</texPath>
+		<styleTags>
+			<li>Punk</li>
+			<li>HairLong</li>
+			<li>Wild</li>
+			<li>Dreadlocks</li>
+		</styleTags>
+	</HairDef>
+
+</Defs>

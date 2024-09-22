@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Re6al Hairstyles -->
+  <HairDef>
+    <defName>ALH_Bowl</defName>
+    <label>al_Bowl Style</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Bowl</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Dj_Oguretz</defName>
+    <label>al_Dj Oguretz</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Dj_Oguretz</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Gorgon</defName>
+    <label>al_Gorgon</label>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+    <texPath>Hairs/Woke</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Mull</defName>
+    <label>al_Mullet again</label>
+    <styleGender>MaleUsually</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Mull</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Emoboy</defName>
+    <label>al_Emoboy</label>
+    <styleGender>Any</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Emoboy</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Slick</defName>
+    <label>al_Slick</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Slick</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_MulletDIY</defName>
+    <label>al_Surfers Mullet</label>
+    <styleGender>Any</styleGender>
+    <category>Rural</category>
+    <texPath>Hairs/MulletDIY</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Bang01</defName>
+    <label>al_Bang01</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Hairs/Bang01</texPath>
+    <category>Urban</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Bang02</defName>
+    <label>al_Bang02</label>
+    <styleGender>Male</styleGender>
+    <texPath>Hairs/Bang02</texPath>
+    <category>Urban</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Bang03</defName>
+    <label>al_Bang03</label>
+    <styleGender>MaleUsually</styleGender>
+    <texPath>Hairs/Bang03</texPath>
+    <category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Timberlake</defName>
+    <label>al_Timberlake</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Timberlake</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Krusty</defName>
+    <label>al_Krusty Clown</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Krusty</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Eminem</defName>
+    <label>al_Eminem</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Eminem</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Cockrell</defName>
+    <label>al_Cockrell</label>
+    <styleGender>Male</styleGender>
+    <texPath>Hairs/Cockrell</texPath>
+    <category>Tribal</category>
+		<styleTags>
+			<li>Tribal</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Tail</defName>
+    <label>al_Tail</label>
+    <styleGender>Female</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Tail</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Dragon</defName>
+    <label>al_Wild Dragon</label>
+    <styleGender>Male</styleGender>
+    <texPath>Hairs/Dragon</texPath>
+    <category>Urban</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Mullet</defName>
+    <label>al_Mullet: 90's</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Mullet</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Bum</defName>
+    <label>al_Bum</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Bum</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Nuclear</defName>
+    <label>al_Nuclear survivor</label>
+    <styleGender>Any</styleGender>
+    <category>Minimal</category>
+    <texPath>Hairs/Nuclear</texPath>
+		<styleTags>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef> 
+
+  <HairDef>
+    <defName>ALH_Nagiev</defName>
+    <label>al_Dmitry Nagiev</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Nagiev</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+  		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Wokeup</defName>
+    <label>al_Just woke up</label>
+    <styleGender>Male</styleGender>
+    <texPath>Hairs/Wokeup</texPath>
+    <category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>     
+
+  <HairDef>
+    <defName>ALH_Monobrow</defName>
+    <label>al_Monobrow</label>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+    <texPath>Hairs/Monobrow</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+  	</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_prodigy</defName>
+    <label>al_Prodigy</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/prodigy</texPath>
+    	<styleTags>
+      		<li>Urban</li>
+      		<li>Punk</li>
+      		<li>HairShort</li>
+    	</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Coolmullet</defName>
+    <label>al_Mullet Modern</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Coolmullet</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_TigerK</defName>
+    <label>al_Tiger King</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/TigerK</texPath>
+		<styleTags>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>HairLong</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_JFMSU</defName>
+    <label>al_Just FMSU</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/jfmsu</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Ponasenkov</defName>
+    <label>al_Classic Eugene</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Ponasenkov</texPath>
+		<styleTags>
+			<li>Urban</li>
+			<li>Royalty</li>
+			<li>HairShort</li>
+		</styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Swayze</defName>
+    <label>al_Swayze Patrick</label>
+    <styleGender>MaleUsually</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Swayze</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>HairLong</li>
+    </styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Chigur</defName>
+    <label>al_Anton Chigurh</label>
+    <styleGender>Any</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/Chigur</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>HairLong</li>
+    </styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_RubyRhod</defName>
+    <label>al_Ruby Rhod</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/RubyRhod</texPath>
+    <styleTags>
+      <li>Punk</li>
+      <li>HairShort</li>
+    </styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Peasant</defName>
+    <label>al_Peasant</label>
+    <styleGender>MaleUsually</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Peasant</texPath>
+    <styleTags>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>HairShort</li>
+    </styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_PeasantB</defName>
+    <label>al_Peasant Carl</label>
+    <styleGender>Male</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/PeasantB</texPath>
+    <styleTags>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>HairShort</li>
+    </styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_Lopes</defName>
+    <label>al_Diego Lopes</label>
+    <styleGender>Any</styleGender>
+    <category>Punk</category>
+    <texPath>Hairs/Lopes</texPath>
+    <styleTags>
+      <li>Punk</li>
+      <li>Rural</li>
+      <li>HairLong</li>
+    </styleTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>ALH_1939</defName>
+    <label>al_1939</label>
+    <styleGender>Male</styleGender>
+    <category>Urban</category>
+    <texPath>Hairs/1939</texPath>
+    <styleTags>
+      <li>Urban</li>
+      <li>Soldier</li>
+      <li>HairShort</li>
+    </styleTags>
+  </HairDef>
+
+</Defs>

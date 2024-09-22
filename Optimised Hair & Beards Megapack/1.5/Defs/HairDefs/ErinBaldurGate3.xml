@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<HairDef>
+		<label>Erin's - Astarion</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hairs/Astarion</texPath>
+		<defName>ERNAstarion</defName>
+		<category>Urban</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Erin's - Gale</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hairs/Gale</texPath>
+		<defName>ERNGale</defName>
+		<category>Urban</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Erin's - Karlach</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/Karlach</texPath>
+		<defName>ERNKarlach</defName>
+		<category>Urban</category>
+		<styleTags>
+			<li>Tribal</li>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Erin's - Lae'zel</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/Laezel</texPath>
+		<defName>ERNLaezel</defName>
+		<category>Tribal</category>
+		<styleTags>
+			<li>Tribal</li>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Erin's - Shadowheart</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/Shadowheart</texPath>
+		<defName>ERNShadowheart</defName>
+		<category>Urban</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Erin's - Shadowheart Alt</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/ShadowheartV2</texPath>
+		<defName>ERNShadowheartV2</defName>
+		<category>Urban</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairLong</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<label>Erin's - Wyll</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hairs/Wyll</texPath>
+		<defName>ERNWyll</defName>
+		<category>Urban</category>
+		<styleTags>
+			<li>Urban</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+
+	
+
+</Defs>

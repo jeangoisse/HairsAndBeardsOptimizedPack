@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <BeardDef>
+        <defName>ALH_GGAllin_A</defName>
+        <label>al_GG Allin</label>
+        <styleGender>Male</styleGender>
+        <texPath>Hairs/Beards/GG</texPath>
+		<styleTags>
+			<li>BeardPunk</li>
+			<li>BeardRural</li>
+		</styleTags>
+    </BeardDef>
+    
+    <BeardDef>
+        <defName>ALH_GGAllin_B</defName>
+        <label>al_GG Allin alt</label>
+        <styleGender>Male</styleGender>
+        <texPath>Hairs/Beards/Allin</texPath>
+		<styleTags>
+			<li>BeardPunk</li>
+			<li>BeardRural</li>
+		</styleTags>
+    </BeardDef>
+
+    <BeardDef>
+        <defName>ALH_Chaplin</defName>
+        <label>al_Chaplin</label>
+        <styleGender>Male</styleGender>
+        <texPath>Hairs/Beards/Chaplin</texPath>
+        <styleTags>
+            <li>BeardPunk</li>
+            <li>BeardUrban</li>
+        </styleTags>
+    </BeardDef>
+
+    <BeardDef>
+        <defName>ALH_Twoway</defName>
+        <label>al_Twoway</label>
+        <styleGender>Male</styleGender>
+        <texPath>Hairs/Beards/Twoway</texPath>
+        <styleTags>
+            <li>BeardPunk</li>
+            <li>BeardRural</li>
+        </styleTags>
+    </BeardDef>
+
+</Defs>

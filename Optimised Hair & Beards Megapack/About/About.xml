@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<name>Hair'n'Beards Optimized Pack</name>
+<packageId>Cyr.Hair.Pack</packageId>
+<author>Cyr</author>
+<!-- <url>https://github.com/Re6aL/AbsoluteLegendsHair</url> -->
+<supportedVersions>
+	<li>1.5</li>
+</supportedVersions>
+<description>Aggregates Hairs from various mods, with texture size changes when needed to keep balance between optimization and good look.
+	Includes :
+
+	- Roo's HD Dreadlocks (downscaled to 256px)
+	- Erin's Baldur's Gate 3 (downscaled to 256px)
+	- Botch's Hardtimes (untouched because his 512px texture are highly optimized)
+	- ЯEБAЛ's Absolute Legends Hairs (downscaled to 256px) -> Keep original?
+
+	In plans :
+
+	- Von's Hair Women (upscale to 256px)
+	- Storyteller's Hairs (upscale to 256px)
+	- VE Highmate Beautiful Haired Retexture
+	- Some Selected from RH2 
+</description>
+</ModMetaData>

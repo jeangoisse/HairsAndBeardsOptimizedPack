@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+ <!--=============================== Hair ================================-->
+
+	<HairDef>
+		<defName>HT_Wayfarer</defName>
+		<label>wayfarer</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Wayfarer</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Backswept</defName>
+		<label>backswept</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Backswept</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Curly</defName>
+		<label>rough curls</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Curly</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Grimy</defName>
+		<label>grimy</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Grimy</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+				<li>HairLong</li>
+				<li>Urban</li>
+				<li>Wild</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_HighBraid</defName>
+		<label>high braid</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/HT_HighBraid</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Loose</defName>
+		<label>long and loose</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Loose</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Loosebun</defName>
+		<label>loose bun</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/HT_Loosebun</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Outcast</defName>
+		<label>outcast</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/HT_Outcast</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Practical</defName>
+		<label>practical</label>
+		<styleGender>FemaleUsually</styleGender>
+		<texPath>Hairs/HT_Practical</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Mercenary</defName>
+		<label>mercenary</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Mercenary</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Messyshort</defName>
+		<label>short and messy</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hairs/HT_Messyshort</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Miscreant</defName>
+		<label>miscreant</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Miscreant</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Urban</li>
+			<li>Punk</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Ranger</defName>
+		<label>ranger</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Ranger</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Rogue</defName>
+		<label>rogue</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hairs/HT_Rogue</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+		
+	<HairDef>
+		<defName>HT_SideBraid</defName>
+		<label>side braid</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/HT_SideBraid</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Patchy</defName>
+		<label>patchy</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Patchy</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+			<li>Wild</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Denial</defName>
+		<label>denial</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hairs/HT_Denial</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+			<li>Balding</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Veteran</defName>
+		<label>veteran</label>
+		<styleGender>Male</styleGender>
+		<texPath>Hairs/HT_Veteran</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+			<li>Balding</li>
+		</styleTags>
+	</HairDef>
+
+	<HairDef>
+		<defName>HT_Fugitive</defName>
+		<label>fugitive</label>
+		<styleGender>MaleUsually</styleGender>
+		<texPath>Hairs/HT_Fugitive</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairShort</li>
+			<li>Urban</li>
+			<li>Punk</li>
+			<li>Soldier</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Matriarch</defName>
+		<label>matriarch</label>
+		<styleGender>Female</styleGender>
+		<texPath>Hairs/HT_Matriarch</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>Urban</li>
+		</styleTags>
+	</HairDef>
+	
+	<HairDef>
+		<defName>HT_Raider</defName>
+		<label>raider</label>
+		<styleGender>Any</styleGender>
+		<texPath>Hairs/HT_Raider</texPath>
+		<category>Rural</category>
+		<styleTags>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>Urban</li>
+			<li>Tribal</li>
+		</styleTags>
+	</HairDef>
+	
+	
+	 <!--=============================== Beards ================================-->
+
+
+	 <BeardDef>
+    <defName>HT_Warden</defName>
+    <label>watchman</label>
+    <texPath>Hairs/Beards/HT_Warden</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.05)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	  <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+
+	<BeardDef>
+    <defName>HT_Maester</defName>
+    <label>maester</label>
+    <texPath>Hairs/Beards/HT_Maester</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.05)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+      <li>BeardUrban</li>
+	  <li>BeardLong</li>
+	  <li>BeardBushy</li>
+    </styleTags>
+    </BeardDef>
+
+	<BeardDef>
+    <defName>HT_HeavyStubble</defName>
+    <label>heavy stubble</label>
+    <texPath>Hairs/Beards/HT_HeavyStubble</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.025)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.03)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	  <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+
+	<BeardDef>
+    <defName>HT_Boisterous</defName>
+    <label>boisterous</label>
+    <texPath>Hairs/Beards/HT_Boisterous</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.05)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	  <li>BeardLong</li>
+	  <li>BeardUrban</li>
+	  <li>BeardTribal</li>
+	  <li>BeardBushy</li>
+    </styleTags>
+    </BeardDef>
+	
+	<BeardDef>
+    <defName>HT_Marauder</defName>
+    <label>marauder</label>
+    <texPath>Hairs/Beards/HT_Marauder</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.05)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	  <li>BeardUrban</li>
+	  <li>BeardTribal</li>
+    </styleTags>
+   </BeardDef>
+	
+	<BeardDef>
+    <defName>HT_Scholar</defName>
+    <label>scholar</label>
+    <texPath>Hairs/Beards/HT_Scholar</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.05)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+	  <li>BeardLong</li>
+	  <li>BeardBushy</li>
+    </styleTags>
+    </BeardDef>
+  
+    <BeardDef>
+    <defName>HT_Mentor</defName>
+    <label>mentor</label>
+    <texPath>Hairs/Beards/HT_Mentor</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.05)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+	   <li>BeardBushy</li>
+    </styleTags>
+    </BeardDef>
+	
+	<BeardDef>
+    <defName>HT_Entertainer</defName>
+    <label>entertainer</label>
+    <texPath>Hairs/Beards/HT_Entertainer</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.04)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+  
+    <BeardDef>
+    <defName>HT_HighwayMan</defName>
+    <label>highwayman</label>
+    <texPath>Hairs/Beards/HT_HighwayMan</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.04)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.05)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+  
+    <BeardDef>
+    <defName>HT_Scoundrel</defName>
+    <label>scoundrel</label>
+    <texPath>Hairs/Beards/HT_Scoundrel</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.03)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.03)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+  
+    <BeardDef>
+    <defName>HT_Contender</defName>
+    <label>contender</label>
+    <texPath>Hairs/Beards/HT_Contender</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.03)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.03)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+	
+	<BeardDef>
+    <defName>HT_Brewmaster</defName>
+    <label>brewmaster</label>
+    <texPath>Hairs/Beards/HT_Brewmaster</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.04)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.03)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	    <li>BeardUrban</li>
+	  <li>BeardTribal</li>
+    </styleTags>
+    </BeardDef>
+	
+	<BeardDef>
+    <defName>HT_Swindler</defName>
+    <label>swindler</label>
+    <texPath>Hairs/Beards/HT_Swindler</texPath>
+    <styleGender>Male</styleGender>
+    <category>Rural</category>
+	<offsetNarrowSouth>(0,0,0.04)</offsetNarrowSouth>
+	<offsetNarrowEast>(0,0,0.03)</offsetNarrowEast>
+    <styleTags>
+      <li>BeardRural</li>
+	   <li>BeardUrban</li>
+    </styleTags>
+    </BeardDef>
+	
+</Defs>
