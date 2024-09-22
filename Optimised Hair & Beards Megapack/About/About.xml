@@ -22,4 +22,10 @@
 	- VE Highmate Beautiful Haired Retexture
 	- Some Selected from RH2 
 </description>
+<incompatibleWith>
+	<li>Absolute.Legends.Hair</li>
+	<li>Erin.BG3.Hair</li>
+	<li>BotchJob.HTHair</li>
+	<li>Rooboid.DreadlockHairsHD</li>
+</incompatibleWith>
 </ModMetaData>
