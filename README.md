@@ -7,7 +7,7 @@ Currently includes
 - Roo's HD Dreadlocks (downscaled to 256px)
 - Erin's Baldur's Gate 3 (downscaled to 256px)
 - Botch's Hardtimes (untouched because his 512px texture are highly optimized)
-- ЯEБAЛ's Absolute Legends Hairs (downscaled to 256px) -> Keep original?
+- ЯEБAЛ's Absolute Legends Hairs (downscaled to 256px)
 
 More to come
 
