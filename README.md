@@ -14,6 +14,8 @@ More to come
 - Von's Hair Women (upscale to 256px)
 - Storyteller's Hairs (upscale to 256px)
 - VE Highmate Beautiful Haired Retexture
-- Some Selected from RH2 
+- Some Selected from RH2
+
+All textures and defs comes from their original authors, thanks to them for their amazing mods!
 
 tools used : waifu2x-gui, todds-cli, squoosh-cli, pinga image compressor
