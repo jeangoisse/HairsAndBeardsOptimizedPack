@@ -32,6 +32,6 @@ More to come, soon ™
 
 All textures and defs comes from their original authors, thanks to them for their amazing mods!
 This fork will never be updated on the workshop.
-I'll shit down this collection on any resquest from the authors.
+I'll shut down this collection on any resquest from the authors.
 
 tools used : waifu2x-gui, todds-cli, squoosh-cli, pinga image compressor
