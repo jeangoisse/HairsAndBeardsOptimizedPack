@@ -5,7 +5,7 @@ Main reason to do this pack is to **declutture** modlist, using **highly optimiz
 
 more than 250 hairs and 50 beards, all in one package!
 
-**Includes** :
+### **Includes** :
 
 - Roo's HD Dreadlocks (downscaled to 256px)
 
@@ -29,6 +29,8 @@ More to come, soon ™
 
 - VE Highmate Beautiful Haired Retexture
 - Some Selected from RH2
+
+*Using .dds conversion with Rimsort/Rimpy is highly recommended !*
 
 All textures and defs comes from their original authors, thanks to them for their amazing mods!
 This fork will never be updated on the workshop.
