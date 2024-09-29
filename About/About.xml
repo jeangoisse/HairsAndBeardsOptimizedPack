@@ -2,30 +2,53 @@
 <ModMetaData>
 <name>Hair'n'Beards Optimized Pack</name>
 <packageId>Cyr.Hair.Pack</packageId>
-<author>Cyr</author>
-<!-- <url>https://github.com/Re6aL/AbsoluteLegendsHair</url> -->
+<author>Various</author>
+<url>https://github.com/jeangoisse/HairsAndBeardsOptimizedPack</url>
 <supportedVersions>
 	<li>1.5</li>
 </supportedVersions>
-<description>Aggregates Hairs from various mods, with texture size changes when needed to keep balance between optimization and good look.
+<description>Aggregates hairs from various mods, with textures size changes when needed to keep balance between optimization and good look.
+
+	more than 250 hairs and 50 beards, all in one package!
+
 	Includes :
 
 	- Roo's HD Dreadlocks (downscaled to 256px)
+
 	- Erin's Baldur's Gate 3 (downscaled to 256px)
+
 	- Botch's Hardtimes (untouched because his 512px texture are highly optimized)
-	- ЯEБAЛ's Absolute Legends Hairs (downscaled to 256px) -> Keep original?
+
+	- ЯEБAЛ's Absolute Legends Hairs (downscaled to 256px)
+
+	- Ji Won's Hair Women (upscaled to 256px)
+
+	- sakama's Storyteller's Hairs (upscaled to 256px)
+
+	- Generic Anime Girl and catdoghorse's The Vanity Project's Beard (downscaled to 256px)
+
+	- 金兔子拉面's AFU Hair Women (only compressed)
+
+	- 金兔子拉面's Hair Men (downscaled to 256px)	
 
 	In plans :
 
-	- Von's Hair Women (upscale to 256px)
-	- Storyteller's Hairs (upscale to 256px)
-	- VE Highmate Beautiful Haired Retexture
-	- Some Selected from RH2 
+	- Some Selected from RH2
+
+	tools used : todds-cli, squoosh-cli, waifu2x-gui, pinga image compressor.
+
+	All rights are due to the original authors. If requested i'll shut down this collection.
 </description>
 <incompatibleWith>
 	<li>Absolute.Legends.Hair</li>
 	<li>Erin.BG3.Hair</li>
 	<li>BotchJob.HTHair</li>
 	<li>Rooboid.DreadlockHairsHD</li>
+	<li>won2.hair</li>
+	<li>TheVanityProject.Beards</li>
+	<li>sakama.StorytellerHair</li>
+	<li>JintuziLamian.Hairstyle.AFUWomenshairstyles</li>
+	<li>JintuziLamian.Hairstyle.AFUMenshairstyles</li>				
+
 </incompatibleWith>
 </ModMetaData>

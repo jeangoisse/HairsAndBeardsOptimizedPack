@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <!-- Cat Fish -->
+    <BeardDef>
+        <defName>TVP_CatFish</defName>
+        <label>TVP Cat Fish</label>
+        <texPath>Hairs/Beards/TVP_CatFish</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>MoustacheOnly</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Commissioner -->
+    <BeardDef>
+        <defName>TVP_Commissioner</defName>
+        <label>TVP Commissioner</label>
+        <texPath>Hairs/Beards/TVP_Commissioner</texPath>
+        <styleGender>Male</styleGender>
+        <offsetNarrowSouth>(0,0,0.02)</offsetNarrowSouth>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>MoustacheOnly</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Davy Jones -->
+    <BeardDef>
+        <defName>TVP_DavyJones</defName>
+        <label>TVP Davy Jones</label>
+        <texPath>Hairs/Beards/TVP_DavyJones</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardBushy</li>
+            <li>BeardLong</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Handle Bar -->
+    <BeardDef>
+        <defName>TVP_HandleBar</defName>
+        <label>TVP Handle Bar</label>
+        <texPath>Hairs/Beards/TVP_HandleBar</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>MoustacheOnly</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Hardy -->
+    <BeardDef>
+        <defName>TVP_Hardy</defName>
+        <label>TVP Hardy</label>
+        <texPath>Hairs/Beards/TVP_Hardy</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardShort</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Mutton Chops -->
+    <BeardDef>
+        <defName>TVP_MuttonChops</defName>
+        <label>TVP Mutton Chops</label>
+        <texPath>Hairs/Beards/TVP_MuttonChops</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardShort</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Terrier -->
+    <BeardDef>
+        <defName>TVP_Terrier</defName>
+        <label>TVP Terrier</label>
+        <texPath>Hairs/Beards/TVP_Terrier</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardShort</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Trochulus -->
+    <BeardDef>
+        <defName>TVP_Trochulus</defName>
+        <label>TVP Trochulus</label>
+        <texPath>Hairs/Beards/TVP_Trochulus</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardTribal</li>
+            <li>BeardLong</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Whale -->
+    <BeardDef>
+        <defName>TVP_Whale</defName>
+        <label>TVP Whale</label>
+        <texPath>Hairs/Beards/TVP_Whale</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardTribal</li>
+            <li>BeardBushy</li>
+            <li>BeardLong</li>
+        </styleTags>
+    </BeardDef>
+
+    <!-- Wizard -->
+    <BeardDef>
+        <defName>TVP_Wizard</defName>
+        <label>TVP Wizard</label>
+        <texPath>Hairs/Beards/TVP_Wizard</texPath>
+        <styleGender>Male</styleGender>
+        <category>Urban</category>
+        <styleTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardTribal</li>
+            <li>BeardBushy</li>
+            <li>BeardLong</li>
+        </styleTags>
+    </BeardDef>
+</Defs>
