@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Male hairs-->
+  
+ <!-- OG -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Andrey_Beard</defName>
+    <label>Andrey</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Andrey_Beard/Andrey_Beard</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Andrey</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Killswitch</defName>
+    <label>Killswitch</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Killswitch/Killswitch_Beard</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Killswitch</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Langley</defName>
+    <label>Langley</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Langley/Langley_Beard</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Killswitch</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <!-- Call of duty -->
+
+  <BeardDef>
+    <defName>RH2_FacialHair_Price</defName>
+    <label>Price</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Price/Price</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Price</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Alex</defName>
+    <label>Alex</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Alex/Alex</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Alex</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_D_Day</defName>
+    <label>D-Day</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/D_Day/D_Day</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>BeardTribal</li>
+			<li>RH_D_Day</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Wyatt</defName>
+    <label>Wyatt</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Wyatt/Wyatt</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Wyatt</li>
+		</hairTags>
+  </BeardDef>      
+
+  <BeardDef>
+    <defName>RH2_FacialHair_Mason</defName>
+    <label>Mason</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Mason/Mason</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Mason</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Woods</defName>
+    <label>Woods</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Woods/Woods</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Woods</li>
+		</hairTags>
+  </BeardDef>  
+  
+    <!-- CSGO -->
+
+  <BeardDef>
+    <defName>RH2_FacialHair_DadHair</defName>
+    <label>Dad</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/DadBeard/DadBeard</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_DadBeard</li>
+			<li>RH_BeardEliteCrew</li>
+		</hairTags>
+  </BeardDef>      
+  
+  
+  <!-- Amazon -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Butcher</defName>
+    <label>Butcher</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Butcher/Butcher</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Butcher</li>
+		</hairTags>
+  </BeardDef>
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_J_Jameson</defName>
+    <label>J Jameson</label>
+    <styleGender>Male</styleGender>
+	<category>Moustache</category>
+    <texPath>Hairs/RH2/Facial_Hair/J_Jameson/J_Jameson</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>MoustacheOnly</li>
+		</hairTags>
+  </BeardDef>   
+  
+  
+  <!-- CRE -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Colbourne</defName>
+    <label>Colbourne</label>
+    <styleGender>Male</styleGender>
+	<category>Moustache</category>
+    <texPath>Hairs/RH2/Facial_Hair/Colbourne/Colbourne</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>MoustacheOnly</li>
+		</hairTags>
+  </BeardDef>
+  
+  <!-- Far Cry -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Jacob</defName>
+    <label>Jacob</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Jacob/Jacob</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+            <li>BeardPunk</li>
+            <li>BeardTribal</li>
+			<li>RH_Jacob</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <!-- Last of Us -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Joel</defName>
+    <label>Joel</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Joel/Joel</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Joel</li>
+			<li>RH_GolfPro</li>
+		</hairTags>
+  </BeardDef>  
+  
+   <!-- Other -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Lemmy</defName>
+    <label>Lemmy</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Lemmy/Lemmy</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>RH_Lemmy</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_StoneCold</defName>
+    <label>Stone Cold</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Stone_Cold/Stone_Cold</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_StoneCold</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Gigachad</defName>
+    <label>Gigachad</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Gigachad/Gigachad</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>RH_Gigachad</li>
+		</hairTags>
+  </BeardDef>  
+  <BeardDef>
+    <defName>RH2_FacialHair_Ian</defName>
+    <label>Ian</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Ian/Ian</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>RH_Ian</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_FPSRussia</defName>
+    <label>FPS Russia</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/FPSRussia/FPSRussia</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>RH_FPSRussia</li>
+		</hairTags>
+  </BeardDef>
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Delta</defName>
+    <label>Delta</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Delta/Delta</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>BeardTribal</li>
+			<li>BeardPunk</li>
+			<li>RH_Delta</li>
+		</hairTags>
+  </BeardDef>   
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Kratos</defName>
+    <label>Kratos</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Facial_Hair/Kratos/Kratos</texPath>
+		<hairTags>
+            <li>BeardUrban</li>
+            <li>BeardRural</li>
+			<li>BeardTribal</li>
+			<li>BeardPunk</li>
+			<li>RH_Kratos</li>
+		</hairTags>
+  </BeardDef> 
+  
+  <!-- Action Hero-->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_JohnWick</defName>
+    <label>John Wick</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/John_Wick/John_Wick</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>RH_John_Wick</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Nobody</defName>
+    <label>Nobody</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Nobody/Nobody</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>RH_Nobody</li>
+		</hairTags>
+  </BeardDef>
+  
+    <!-- Resident Evil -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Carlos</defName>
+    <label>Carlos</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Carlos/Carlos</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Carlos</li>
+		</hairTags>
+  </BeardDef>    
+  
+  <!-- Stranger Things -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Billy_H</defName>
+    <label>Billy H</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Billy_H/Billy_H_Stache</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Billy_H_Stache</li>
+		</hairTags>
+  </BeardDef>
+   
+
+   <!-- MGS V -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Big_Boss</defName>
+    <label>Big Boss</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Big_Boss/BigBoss_Beard</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Big_Boss</li>
+		</hairTags>
+  </BeardDef>
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Venom_Snake</defName>
+    <label>Venom Snake</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Venom_Snake/VenomSnake_Beard</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Venom_Snake</li>
+		</hairTags>
+  </BeardDef>
+  
+     <!-- The Infiltrator -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Mazur_Tash</defName>
+    <label>Mazur</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Mazur/Mazur_Tash</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Mazur_Tash</li>
+		</hairTags>
+  </BeardDef>     
+  
+  <!-- Monopoly -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Monopoly</defName>
+    <label>Monopoly</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Monopoly/MonopolyTache</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Monopoly</li>
+		</hairTags>
+  </BeardDef>
+
+   <!-- Invincible -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Omniman</defName>
+    <label>Omniman</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Omniman/Omniman_Tash</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Omniman_Tash</li>
+		</hairTags>		
+  </BeardDef>   
+  
+  <!-- Marvel -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Wolverine</defName>
+    <label>Wolverine</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Wolverine/WolverineBeard</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Wolverine_Beard</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <!-- Celebrity -->
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Reynolds</defName>
+    <label>Reynolds</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Reynolds/Reynolds_Beard</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Reynolds_Beard</li>
+		</hairTags>
+  </BeardDef>  
+  
+  <BeardDef>
+    <defName>RH2_FacialHair_Robert</defName>
+    <label>Robert</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Facial_Hair/Robert/Robert_Beard</texPath>
+		<hairTags>
+			<li>BeardUrban</li>
+			<li>BeardRural</li>
+			<li>BeardPunk</li>
+			<li>RH_Robert_Beard</li>
+		</hairTags>
+  </BeardDef>
+  
+
+</Defs>

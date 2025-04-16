@@ -1,0 +1,1019 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Male hairs-->
+  
+  <!-- Call of duty -->
+
+  <HairDef>
+    <defName>RH2_Hair_Price</defName>
+    <label>Price</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Price/Price</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Price</li>
+		</hairTags>
+  </HairDef>  
+  
+    <HairDef>
+    <defName>RH2_Hair_Garrick</defName>
+    <label>Garrick</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Garrick/Garrick</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Tribal</li>
+			<li>Soldier</li>
+			<li>RH_Garrick</li>
+		</hairTags>
+	</HairDef> 
+		
+  
+  <HairDef>
+    <defName>RH2_Hair_Soap</defName>
+    <label>Soap</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Soap/Soap</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Soldier</li>
+			<li>RH_Soap</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Alex</defName>
+    <label>Alex</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Alex/Alex</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Alex</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_D_Day</defName>
+    <label>D-Day</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/D_Day/D_Day</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>RH_D_Day</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Wyatt</defName>
+    <label>Wyatt</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/Wyatt/Wyatt</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Tribal</li>
+			<li>RH_Wyatt</li>
+		</hairTags>
+  </HairDef>      
+  
+  <HairDef>
+    <defName>RH2_Hair_Nikolai</defName>
+    <label>Nikolai</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Nikolai/Nikolai</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Nikolai</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Minotaur</defName>
+    <label>Minotaur</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Minotaur/Minotaur</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Minotaur</li>
+		</hairTags>
+  </HairDef>  
+   
+    <HairDef>
+    <defName>RH2_Hair_Adler</defName>
+    <label>Adler</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Adler/Adler</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Adler</li>
+		</hairTags>
+  </HairDef>    
+    
+	
+  <HairDef>
+    <defName>RH2_Hair_Mason</defName>
+    <label>Mason</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Mason/Mason</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Mason</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Woods</defName>
+    <label>Woods</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/Woods/Woods</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Woods</li>
+		</hairTags>
+  </HairDef>  
+  
+      <!-- CSGO -->
+
+  <HairDef>
+    <defName>RH2_Hair_DadHair</defName>
+    <label>Dad</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/DadHair/DadHair</texPath>
+		<hairTags>
+            <li>Urban</li>
+            <li>Rural</li>
+			<li>RH_DadHair</li>
+			<li>RH_EliteCrew</li>
+		</hairTags>
+  </HairDef>      
+  
+  <!-- Sam Raimi's Spiderman -->
+
+  <HairDef>
+    <defName>RH2_Hair_Parker</defName>
+    <label>Parker</label>
+    <styleGender>Any</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Parker/Parker</texPath>
+		<hairTags>
+            <li>Urban</li>
+            <li>Rural</li>
+			<li>RH_DadHair</li>
+			<li>RH_EliteCrew</li>
+		</hairTags>
+  </HairDef>     
+
+  <!-- Cowboy Bebop -->
+
+  <HairDef>
+    <defName>RH2_Hair_Spike</defName>
+    <label>Spike</label>
+    <styleGender>Any</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Spike/Spike</texPath>
+		<hairTags>
+            <li>Urban</li>
+            <li>Rural</li>
+			<li>RH_Spike</li>
+		</hairTags>
+  </HairDef>  
+  
+  
+  <!-- Amazon -->
+  
+  <HairDef>
+    <defName>RH2_Hair_Butcher</defName>
+    <label>Butcher</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Butcher/Butcher</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Butcher</li>
+		</hairTags>
+  </HairDef>
+  
+  <HairDef>
+    <defName>RH2_Hair_Homelander</defName>
+    <label>Homelander</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Homelander/Homelander</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Homelander</li>
+		</hairTags>
+  </HairDef>
+  
+  <HairDef>
+    <defName>RH2_Hair_Invincible</defName>
+    <label>Invincible</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Invincible/Invincible</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Invincible</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Omniman</defName>
+    <label>Omni Man</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Omniman/Omniman</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Omniman</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_J_Jameson</defName>
+    <label>J Jameson</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/J_Jameson/J_Jameson</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_J_Jameson</li>
+		</hairTags>
+  </HairDef>
+  
+  <!-- Far Cry -->
+  
+  <HairDef>
+    <defName>RH2_Hair_Jacob</defName>
+    <label>Jacob</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Jacob/Jacob</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Soldier</li>
+			<li>RH_Jacob</li>
+		</hairTags>
+  </HairDef>    
+  
+  <!-- Last of Us -->
+  
+  <HairDef>
+    <defName>RH2_Hair_Joel</defName>
+    <label>Joel</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/Joel/Joel</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Joel</li>
+			<li>RH_GolfPro</li>
+		</hairTags>
+  </HairDef>  
+  
+  
+  <!-- Bioshock -->
+  
+  <HairDef>
+    <defName>RH2_Hair_Booker</defName>
+    <label>Booker</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Booker/Booker</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Booker</li>
+		</hairTags>
+  </HairDef>  
+  
+  
+  <!-- ARMA -->
+  
+  <HairDef>
+    <defName>RH2_Hair_ScottMiller</defName>
+    <label>Scott</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Scott/Scott</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Scott</li>
+		</hairTags>
+  </HairDef>  
+
+ <!-- Marvel -->
+
+  <HairDef>
+    <defName>RH2_Hair_Punisher</defName>
+    <label>Punisher</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Punisher/Punisher</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Punisher</li>
+		</hairTags>
+  </HairDef>      
+  
+  <HairDef>
+    <defName>RH2_Hair_Wolverine</defName>
+    <label>Wolverine</label>
+    <styleGender>Male</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Wolverine/Wolverine</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Wolverine</li>
+		</hairTags>
+  </HairDef>    
+  
+   <!-- James Bond -->
+   
+  <HairDef>
+    <defName>RH2_Hair_Bond</defName>
+    <label>Bond</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Bond/Bond</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Bond</li>
+		</hairTags>
+  </HairDef>  
+
+  <!-- No Country for old men -->
+    
+  <HairDef>
+    <defName>RH2_Hair_Chigurh</defName>
+    <label>Chigurh</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/Chigurh/Chigurh</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Chigurh</li>
+		</hairTags>
+  </HairDef>
+  
+   <!-- Other -->
+  
+  <HairDef>
+    <defName>RH2_Hair_Lemmy</defName>
+    <label>Lemmy</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Lemmy/Lemmy</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>RH_Lemmy</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Zohan</defName>
+    <label>Zohan</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Zohan/Zohan</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Zohan</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Gigachad</defName>
+    <label>Gigachad</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Gigachad/Gigachad</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Gigachad</li>
+		</hairTags>
+  </HairDef>  
+  
+ <HairDef>
+    <defName>RH2_Hair_Zyzz</defName>
+    <label>Zyzz</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Zyzz/Zyzz</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>RH_Zyzz</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Kreese</defName>
+    <label>Kreese</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Kreese/Kreese</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Kreese</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Ian</defName>
+    <label>Ian</label>
+    <styleGender>Male</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/Ian/Ian</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Ian</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_FPSRussia</defName>
+    <label>FPS Russia</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/FPSRussia/FPSRussia</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_FPSRussia</li>
+		</hairTags>
+  </HairDef>
+  
+  <!-- Action Hero-->
+  
+  <HairDef>
+    <defName>RH2_Hair_JohnWick</defName>
+    <label>John Wick</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/John_Wick/John_Wick</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>RH_John_Wick</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_JohnMcClane</defName>
+    <label>McClane</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/McClane/McClane</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_McClane</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Rambo</defName>
+    <label>Rambo</label>
+    <styleGender>Any</styleGender>
+	<category>Rural</category>
+    <texPath>Hairs/RH2/Hair/Rambo/Rambo</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>HairLong</li>
+			<li>RH_Rambo</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Scarface</defName>
+    <label>Scarface</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Scarface/Scarface</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Scarface</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_TylerDurden</defName>
+    <label>Tyler</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/T_Durden/T_Durden</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Tyler</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Terminator</defName>
+    <label>Terminator</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Terminator/Terminator</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Terminator</li>
+		</hairTags>
+  </HairDef>
+  
+  <HairDef>
+    <defName>RH2_Hair_Nobody</defName>
+    <label>Nobody</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Nobody/Nobody</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Nobody</li>
+		</hairTags>
+  </HairDef>
+
+<!-- Inglorious Basterds -->  
+  
+  <HairDef>
+    <defName>RH2_Hair_Zoller</defName>
+    <label>Zoller</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Zoller/Zoller</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Zoller</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_HansLanda</defName>
+    <label>Landa</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Hans_Landa/Hans_Landa</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_HansLanda</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Stiglitz</defName>
+    <label>Stiglitz</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Stiglitz/Stiglitz</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Stiglitz</li>
+		</hairTags>
+  </HairDef>  
+  
+  <!-- Resident Evil -->
+  
+ <HairDef>
+    <defName>RH2_Hair_Chris</defName>
+    <label>Chris</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Chris/Chris</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Chris</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Carlos</defName>
+    <label>Carlos</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Carlos/Carlos</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>RH_Carlos</li>
+		</hairTags>
+  </HairDef>   
+  
+  <HairDef>
+    <defName>RH2_Hair_Leon</defName>
+    <label>Leon</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Leon/Leon</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>RH_Leon</li>
+		</hairTags>
+  </HairDef>  
+  
+    <!-- Metal Gear -->
+  
+ <HairDef>
+    <defName>RH2_Hair_SolidSnake</defName>
+    <label>Solid Snake</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Solid_Snake/Solid_Snake</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_SolidSnake</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>     
+  
+  <HairDef>
+    <defName>RH2_Hair_SolidSnake_II</defName>
+    <label>Solid Snake 2</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Solid_Snake_2/Solid_Snake_2</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_SolidSnake_II</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_GrayFox</defName>
+    <label>Gray Fox</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Gray_Fox/Gray_Fox</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_GrayFox</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>    
+
+ <HairDef>
+    <defName>RH2_Hair_Raiden</defName>
+    <label>Raiden</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Raiden/Raiden</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Raiden</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>      
+  
+  <HairDef>
+    <defName>RH2_Hair_Big_Boss</defName>
+    <label>Big Boss</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Big_Boss/BigBoss</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Big_Boss</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>      
+  
+  <HairDef>
+    <defName>RH2_Hair_Venom_Snake</defName>
+    <label>Venom Snake</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Venom_Snake/VenomSnake</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Venom_Snake</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>      
+  
+ <HairDef>
+    <defName>RH2_Hair_Huey_Emmerich</defName>
+    <label>Huey</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Huey_Emmerich/Huey_Emmerich</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Huey_Emmerich</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>  
+  
+  <HairDef>
+    <defName>RH2_Hair_Hideo_Kojima</defName>
+    <label>Hideo Kojima</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Hideo_Kojima/Hideo</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Hideo_Kojima</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>   
+  
+  <HairDef>
+    <defName>RH2_Hair_Miller</defName>
+    <label>Miller</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Miller/Miller</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Miller</li>
+			<li>RH_MGS</li>
+		</hairTags>
+  </HairDef>    
+  
+  <!-- X-Files -->
+  
+   <HairDef>
+    <defName>RH2_Hair_Mulder</defName>
+    <label>Mulder</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Mulder/Mulder</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Mulder</li>
+		</hairTags>
+  </HairDef>  
+  
+  <!-- American Psycho -->
+ <HairDef>
+    <defName>RH2_Hair_Bateman</defName>
+    <label>Bateman</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Bateman/Bateman</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Bateman</li>
+		</hairTags>
+  </HairDef>     
+  
+  <!-- American Made -->
+ <HairDef>
+    <defName>RH2_Hair_BarryAM</defName>
+    <label>Barry</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Barry/Barry</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Barry</li>
+		</hairTags>
+  </HairDef>    
+  
+  <!-- Stranger Things -->
+ <HairDef>
+    <defName>RH2_Hair_Billy_H</defName>
+    <label>Billy H</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Billy_H/Billy_H</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Billy_H</li>
+		</hairTags>
+  </HairDef>  
+  
+    <!-- Baldur's Gate 3 -->
+ <HairDef>
+    <defName>RH2_Hair_Astarion</defName>
+    <label>Astarion</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Astarion/Astarion</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Astarion</li>
+		</hairTags>
+  </HairDef>      
+  
+  <!-- War Dogs -->
+ <HairDef>
+    <defName>RH2_Hair_Efraim</defName>
+    <label>Efraim</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Efraim/Efraim</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Efraim</li>
+		</hairTags>
+  </HairDef>     
+
+  <!-- Lord of War -->
+ <HairDef>
+    <defName>RH2_Hair_Orlov</defName>
+    <label>Orlov</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Orlov/Orlov</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Orlov</li>
+		</hairTags>
+  </HairDef>      
+  
+  <!-- The Infiltrator -->
+ <HairDef>
+    <defName>RH2_Hair_Mazur</defName>
+    <label>Mazur</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Mazur/Mazur</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Mazur</li>
+		</hairTags>
+  </HairDef>     
+  
+  <!-- Celebrity -->
+ <HairDef>
+    <defName>RH2_Hair_Reynolds</defName>
+    <label>Reynolds</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Reynolds/Reynolds</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Reynolds</li>
+		</hairTags>
+  </HairDef>     
+  
+  <HairDef>
+    <defName>RH2_Hair_Robert</defName>
+    <label>Robert</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Robert/Robert</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Robert</li>
+		</hairTags>
+  </HairDef>    
+  
+  <!-- Doctor Who -->
+ <HairDef>
+    <defName>RH2_Hair_Tennant</defName>
+    <label>Tennant</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Tennant/Tennant</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Tennant</li>
+		</hairTags>
+  </HairDef>   
+
+  <!-- Behind Enemy Lines -->
+ <HairDef>
+    <defName>RH2_Hair_Sasha</defName>
+    <label>Sasha</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Sasha/Sasha</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Sasha</li>
+		</hairTags>
+  </HairDef>    
+  
+  <!-- OG -->
+ <HairDef>
+    <defName>RH2_Hair_Killswitch</defName>
+    <label>Killswitch</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Killswitch/Killswitch</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+			<li>RH_Killswitch</li>
+		</hairTags>
+  </HairDef>  
+  
+ <HairDef>
+    <defName>RH2_Hair_Langley</defName>
+    <label>Langley</label>
+    <styleGender>Male</styleGender>
+	<category>Urban</category>
+    <texPath>Hairs/RH2/Hair/Langley/Langley</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>RH_Langley</li>
+		</hairTags>
+  </HairDef>    
+  
+  <HairDef>
+    <defName>RH2_Hair_Punk</defName>
+    <label>Punk</label>
+    <styleGender>MaleUsually</styleGender>
+	<category>Soldier</category>
+    <texPath>Hairs/RH2/Hair/Punk/Punk</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Tribal</li>
+			<li>Soldier</li>
+			<li>RH_Punk</li>
+		</hairTags>
+	</HairDef> 
+  
+</Defs>
