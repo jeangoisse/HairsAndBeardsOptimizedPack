@@ -3,7 +3,7 @@
 Aggregates Hairs from various mods, with textures size changed when needed to keep a balance between optimization and still have a good look.
 Main reason to do this pack is to **declutture** modlist, using **highly optimized** textures and have a **uniform** look when using various hairs mods.
 
-more than 250 hairs and 50 beards, all in one package!
+more than 400 hairstyles and 80 beards, all in one package!
 
 ### **Includes** :
 
