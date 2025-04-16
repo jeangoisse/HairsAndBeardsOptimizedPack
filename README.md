@@ -25,10 +25,7 @@ more than 250 hairs and 50 beards, all in one package!
 
 - 金兔子拉面's Hair Men (downscaled to 256px)	
 
-More to come, soon ™
-
-- VE Highmate Beautiful Haired Retexture
-- Some Selected from RH2
+- RH2 Chicken Mitchell Hairstyles (downscaled to 256px)
 
 *Using .dds conversion with Rimsort/Rimpy is highly recommended !*
 
