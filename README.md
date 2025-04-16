@@ -19,7 +19,7 @@ more than 400 hairstyles and 80 beards, all in one package!
 
 - sakama's Storyteller's Hairs (upscaled to 256px)
 
-- Generic Anime Girl and catdoghorse's The Vanity Project's Beard (downscaled to 256px)
+- Generic Anime Girl and catdoghorse's The Vanity Project's Beards (downscaled to 256px)
 
 - 金兔子拉面's AFU Hair Women (only compressed)
 
