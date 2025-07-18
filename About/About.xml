@@ -6,10 +6,11 @@
 <url>https://github.com/jeangoisse/HairsAndBeardsOptimizedPack</url>
 <supportedVersions>
 	<li>1.5</li>
+	<li>1.6</li>
 </supportedVersions>
 <description>Aggregates hairs from various mods, with textures size changes when needed to keep balance between optimization and good look.
 
-	more than 250 hairs and 50 beards, all in one package!
+	more than 400 hairstyles and 80 beards, all in one package!
 
 	Includes :
 
@@ -31,9 +32,7 @@
 
 	- 金兔子拉面's Hair Men (downscaled to 256px)	
 
-	In plans :
-
-	- Some Selected from RH2
+	- RH2 Chicken Mitchell Hairstyles (downscaled to 256px)
 
 	tools used : todds-cli, squoosh-cli, waifu2x-gui, pinga image compressor.
 
@@ -49,6 +48,6 @@
 	<li>sakama.StorytellerHair</li>
 	<li>JintuziLamian.Hairstyle.AFUWomenshairstyles</li>
 	<li>JintuziLamian.Hairstyle.AFUMenshairstyles</li>				
-
+	<li>RH2.Chicken.Mitchell.2.Hairstyles</li>
 </incompatibleWith>
 </ModMetaData>
