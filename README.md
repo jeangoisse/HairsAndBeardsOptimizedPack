@@ -3,7 +3,7 @@
 Aggregates Hairs from various mods, with textures size changed when needed to keep a balance between optimization and still have a good look.
 Main reason to do this pack is to **declutture** modlist, using **highly optimized** textures and have a **uniform** look when using various hairs mods.
 
-more than 250 hairs and 50 beards, all in one package!
+more than 400 hairstyles and 80 beards, all in one package!
 
 ### **Includes** :
 
@@ -19,16 +19,13 @@ more than 250 hairs and 50 beards, all in one package!
 
 - sakama's Storyteller's Hairs (upscaled to 256px)
 
-- Generic Anime Girl and catdoghorse's The Vanity Project's Beard (downscaled to 256px)
+- Generic Anime Girl and catdoghorse's The Vanity Project's Beards (downscaled to 256px)
 
 - 金兔子拉面's AFU Hair Women (only compressed)
 
 - 金兔子拉面's Hair Men (downscaled to 256px)	
 
-More to come, soon ™
-
-- VE Highmate Beautiful Haired Retexture
-- Some Selected from RH2
+- RH2 Chicken Mitchell Hairstyles (downscaled to 256px)
 
 *Using .dds conversion with Rimsort/Rimpy is highly recommended !*
 
